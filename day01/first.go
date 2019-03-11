@@ -1,5 +1,5 @@
 //程序所属的包
-package main
+package day01
 //导入依赖包
 import "fmt"
 //定义常量
